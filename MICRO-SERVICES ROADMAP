@@ -1,0 +1,118 @@
+Microservices are highly complicated ecosystem of feature based, independent and autonomous services. 
+They are feature based services that provide a particular business functionality.
+Big enterprise softwares are divided into smaller set of services(1000s in some cases) that perform a single business functionality.
+
+To DEVELOP, BUILD, DEPLOY, MANAGE, TEST, DEPLOY and MONITOR them is a challenge in itself 
+with complexity of Microservices almost 6-7 times more than similar Monolith System
+
+THINGS TO LOOK FOR IN MICRO-SERVICES ECO-SYSTEM
+
+1. Container Technology
+2. Container Orchestration
+3. API Gateway
+4. Load Balancer
+5. Service Discovery
+6. Event Bus
+7. Logging
+8. Monitoring And Alerting
+9. Distributed tracing
+10. Event Sourcing
+11. Separate DBMS
+12. Domain Driven Design
+13. Micro Front-Ends
+14. Design Patterns
+15. Organization of Teams
+16. Governance of Services
+17. Externalized Configuration
+18. Software Artifact Repository
+19. Vulnerability & Security Management
+20. DevOP Tools
+21. DataOps Tools
+22. Services Scope and Size
+23. Integration Platforms
+24. Cloud Providers
+25. Infrastructure Resources
+26. Data Management
+27. Decentralized DevOps Pipeline
+28. Communication Protocols (Asynchronous or Synchronous)
+29. Dependency & Versioning Mechanism
+30. Observability Pipeline
+31. Data Synchronization & Consistency Management
+32. Programming Languages and its Frameworks
+33. Testing and Debugging Mechanism
+34. Service Contracts
+35. Transaction Rollback Mechanism
+36. Service level Standards
+37. Coding Standards
+38. Release Mechanism
+
+MICRO-SERVICES DESIGN PATTERNS :
+
+1. DECOMPOSITION PATTERNS
+Decomposition by Business Capability
+Decompose by subdomain
+
+2. MIGRATION PATTERNS
+Strangler Pattern
+
+3. DEPLOYMENT PATTERNS
+Multiple service instances per host
+Single Service Instance per host (VM or Container)
+Serverless deployment
+Service deployment platform
+
+4. CROSS-CUTTING PATTERNS
+Microservice chassis
+Externalized configuration
+
+5. API PATTERNS
+API Gateway pattern
+
+6. SERVICE DISCOVERY PATTERNS
+Client-side Service Discovery
+Server-side Service Discovery
+Service Registry
+Self Registration
+
+7. RELIABILITY PATTERNS
+Circuit Breaker
+
+8. DATA MANAGEMENT PATTERNS
+Database per Service
+Command Query Responsibility Segregation (CQRS)
+
+9. SECURITY PATTERNS
+Access token
+
+10. OBSERVABILITY PATTERNS
+Log aggregation
+Health Check API
+Distributed Tracing
+Exception Tracing
+
+11. UI PATTERNS
+Back-ends for Front-ends Pattern
+Server Side Page Fragment Composition
+Client Side UI Composition
+
+12. APPLICATION STATE MECHANISM
+Event Sourcing Pattern
+
+13. SERVICE CONFIGURATIONS
+Externalize Configuration Pattern
+
+14. TESTING PATTERNS
+Consumer Driven Contract Test
+Consumer Side Contract Test
+
+15. COMMUNICATION STYLE
+Messaging (Asynchronous)
+Remote Procedure Invocation (Synchronous)
+
+#microservices
+#microservice
+#devopsworld
+#software
+#softwaredesignpatterns
+
+IMAGE FULL CREDIT & SOURCE : https://lnkd.in/eV9gb95R
